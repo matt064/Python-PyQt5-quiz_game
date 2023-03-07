@@ -7,7 +7,7 @@ Simple quiz game using questions from website [Open Trivia Database](https://ope
 ## Installation
 1. The first thing to do is to clone the repository:
     ```
-    git clone https://github.com/matt064/quiz.git
+    git clone https://github.com/matt064/quiz_pyqt5.git
     ```
 
 2. Create a virtual environment to install dependencies in and activate it:
